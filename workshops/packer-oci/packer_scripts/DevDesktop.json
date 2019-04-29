@@ -1,0 +1,10 @@
+  { 
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaa7vfve5vk2k4viinot4l6pwi7pd4marvqmpyiwro76blymcr6ylaa",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaapf32iocmevidwi4ujtrnfvq456dp4elubzvw564v6lh2sby24uua",
+      "my.fingerprint":" 6c:52:69:33:d1:68:b3:29:c6:7d:0b:1c:a1:0f:9c:66",
+      "my.availability_domain": "AD-1",
+      "my.region": "us-phoenix-1",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaafh7ruoepzxpafexsjqyty67w5zpbpq7yfnirlcfkv4jrwbrgsr4a",
+      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
+    }
