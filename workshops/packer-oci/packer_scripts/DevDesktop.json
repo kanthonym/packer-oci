@@ -1,7 +1,7 @@
   { 
       "my.user_ocid": "ocid1.user.oc1..aaaaaaaa7vfve5vk2k4viinot4l6pwi7pd4marvqmpyiwro76blymcr6ylaa",
       "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaapf32iocmevidwi4ujtrnfvq456dp4elubzvw564v6lh2sby24uua",
-      "my.fingerprint":" 6c:52:69:33:d1:68:b3:29:c6:7d:0b:1c:a1:0f:9c:66",
+      "my.fingerprint": "1a:d7:e5:5c:e1:c7:34:a6:5f:2e:00:29:f1:9a:ce:35",
       "my.availability_domain": "AD-1",
       "my.region": "us-phoenix-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaajyszwbdbcbtyttsonmxdycd55csllc66l4rmt7vrdk6uvt52fh7a",
